@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @parth-b-simformsolutions
-- 🌱 I’m currently learning flutter for mobile app development
+- 🌱 I’m working in Simform Solutions as flutter developer
 
 <!---
 parth-b-simformsolutions/parth-b-simformsolutions is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
